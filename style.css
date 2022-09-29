@@ -1,0 +1,55 @@
+body 
+{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: crimson;
+}
+
+.header_div
+{
+    background-color: aliceblue;
+    color: coral;
+}
+
+.header_div p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: chartreuse;
+    font-weight: bold;
+    letter-spacing: 2px;
+    font-size: 12px;
+}
+
+.main_div button{
+    font-family: cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bold;
+    letter-spacing: 3px;
+    box-shadow: 5px 5px 10px black;
+}
+
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: darkgoldenrod;
+    width:100%;
+    font-size: 18px;
+    background-color: khaki;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(rgb(0, 255, 179), green, blue)
+}
+
+img{
+    border: 15px dotted white;
+    border-radius: 700px;
+}
+
+h3, h4{
+    text-shadow: 5px 5px 3px firebrick;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: 'Nabla', cursive;
+    font-size: 50px;
+}
